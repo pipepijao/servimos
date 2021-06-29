@@ -6,7 +6,7 @@ public function __construct(){
 }
 
 public function index(){
-    require_once '../app/Views/index/index.html';
+    require_once '../app/Views/index/index.php';
 }
 
 }
